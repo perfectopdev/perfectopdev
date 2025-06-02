@@ -36,9 +36,3 @@ I work across the stack – from crafting responsive UIs to architecting scalabl
 - ✉️ [Email](mailto:your.email@example.com)
 
 _"Code is only as good as the thought behind it."_
-&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-_"Code is only as good as the thought behind it."_
