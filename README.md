@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prashant Sapkota
+![Header](./header.png)
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35)
 
