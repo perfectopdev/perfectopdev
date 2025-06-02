@@ -1,5 +1,5 @@
 ![Header](./header.png)
-## 🚀 About Me
+## 🚀 About Me ![](https://api.visitorbadge.io/api/VisitorHit?user=perfectopdev&repo=github-visitors-badge&countColor=%237B1E7A)
 
 I'm a **Senior Full Stack Developer** with 9+ years of experience designing, developing, and deploying web applications. I specialize in building scalable, reliable, and user-friendly SaaS solutions across various domains. My expertise spans both frontend and backend development, cloud services, API and database design, and performance optimization.
 
