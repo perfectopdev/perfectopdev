@@ -1,38 +1,51 @@
-# 👋 Hey, I'm Prashant
+# 👋 Hi, I'm Prashant Sapkota
 
-I'm a **Full Stack Web Developer** who loves turning complex ideas into smooth, functional web experiences. Whether it’s frontend or backend, I enjoy making things work cleanly, securely, and efficiently.
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35)
 
-![visitors](https://komarev.com/ghpvc/?username=perfectopdev&label=Profile%20Views&color=blue)
+## 🚀 About Me
 
-### === What I Do
+I'm a **Senior Full Stack Developer** with 9+ years of experience designing, developing, and deploying web applications. I specialize in building scalable, reliable, and user-friendly SaaS solutions across various domains. My expertise spans both frontend and backend development, cloud services, API and database design, and performance optimization.
 
-I work across the stack – from crafting responsive UIs to architecting scalable APIs. I care about clean code, real-world performance, and shipping real solutions, not just prototypes.
+- 💼 Available for freelance and full-time opportunities
+- 🌎 Based remotely, open to global projects
+- 💡 Passionate about clean code, automation, and modern web technologies
+- 🛡️ Focused on security, performance, and SEO best practices
 
-### === Technologies I Use
+## 🛠️ Skills & Technologies
 
-**Frontend**: React, Next.js, Tailwind, TypeScript, Vue  
-**Backend**: Node.js, Express, Python, Django, REST APIs, GraphQL  
-**Database**: PostgreSQL, MongoDB, MySQL  
-**DevOps**: Docker, Vercel, Netlify, GitHub Actions, CI/CD  
-**Tools**: Supabase, Prisma, Stripe, Firebase, WebSockets
+**Languages & Frameworks:**
+- Python, Django
+- Node.js, Express.js
+- PHP, Laravel
+- JavaScript (ES6+), TypeScript
+- React, Next.js
+- Vue.js, Nuxt.js
 
-### === Previous Projects
+**Databases:**
+- PostgreSQL
+- MongoDB
+- MySQL
 
-🛒 **Ecommerce Platform** – Built a fully custom eCommerce store with **Next.js**, **Stripe**, **PostgreSQL**, and real-time order tracking.  
-🎬 **Cinema Booking System** – Designed a ticket booking app from scratch with a clean **3-tier architecture** and user-friendly seat selection.  
-🌍 **Google Maps WordPress Plugin** – Created a plugin that integrates with **Google Maps Places API** to fetch and display real-time business data.  
-🧠 **AI-Powered Content App** – Built a **React Native** app with OpenAI API integration, offering one free generation and tiered subscription plans.
+**Cloud & DevOps:**
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- Docker, CI/CD, Serverless
 
-### === Currently Exploring
+**Other:**
+- RESTful API & GraphQL design
+- Third-party API integration
+- Microservices architecture
+- Unit & Integration Testing
+- Agile & Scrum methodologies
 
-- Real-time apps with WebSockets and WebRTC  
-- Serverless functions using AWS Lambda  
-- Deep dive into Prisma and tRPC for full type safety
+## 📈 GitHub Stats
 
-### === Connect with Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectopdev&theme=radical" alt="GitHub Streak" />
+</p>
 
-- 🌐 [Portfolio](https://your-portfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- ✉️ [Email](mailto:your.email@example.com)
+## 📫 Contact Me
 
-_"Code is only as good as the thought behind it."_
+- Email: [prashantskilledengineer@gmail.com](mailto:prashantskilledengineer@gmail.com)
+- LinkedIn: [Prashant Sapkota](https://www.linkedin.com/in/prashant-sapkota-246546323/)
