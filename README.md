@@ -1,7 +1,4 @@
 ![Header](./header.png)
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35)
-
 ## 🚀 About Me
 
 I'm a **Senior Full Stack Developer** with 9+ years of experience designing, developing, and deploying web applications. I specialize in building scalable, reliable, and user-friendly SaaS solutions across various domains. My expertise spans both frontend and backend development, cloud services, API and database design, and performance optimization.
